@@ -4,9 +4,13 @@
 
 ### Steps :- 
 
-#### 1. Install the required Libraries and Packages 
+#### 1. Install the required Libraries and Packages
+```python
 pip install -r requirements.txt
+```
 
 ### 2. Run the app from terminal 
 
+```python
 streamlit run main_app.py
+```
