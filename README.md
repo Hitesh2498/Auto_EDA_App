@@ -9,7 +9,7 @@
 pip install -r requirements.txt
 ```
 
-### 2. Run the app from terminal 
+#### 2. Run the app from terminal 
 
 ```python
 streamlit run main_app.py
