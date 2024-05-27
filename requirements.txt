@@ -1,0 +1,9 @@
+streamlit
+polars
+io
+pyarrow
+ydata_profiling
+streamlit_pandas_profiling
+
+
+
